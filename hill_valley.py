@@ -2,9 +2,13 @@
 Problem source : LEETCODE(2210)
 problem statement overview
 
+in a given list
+
 both greater == hill
 both lesser ==valley
 one greater one lesser == neither hill nor valley
+
+if suppose hill and valley is found it should be increment and the total count should be showed
 
 '''
 
